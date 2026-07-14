@@ -1,0 +1,1160 @@
+[{
+  "_id": "VC-MXTWF5",
+  "name": "nhóm 8",
+  "description": "chill",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 5,
+  "inviteCode": "8SE4NT",
+  "ownerEmail": "ngandtk244111@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-SPR6",
+      "name": "Đặng Thị Kim Ngân (Trưởng nhóm)",
+      "email": "ngandtk244111@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "budget": 7000000,
+      "availability": "cơi chôi",
+      "preferences": [
+        "phải ghi"
+      ],
+      "dislikes": "chỗ ồn",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T07:38:54.712Z"
+},
+{
+  "_id": "VC-DEMO01",
+  "name": "Nhóm 8 — Đà Nẵng & Hội An 3N2Đ",
+  "description": "Chuyến đi tổng kết môn Phát triển Web — chill di sản, ăn sập Hội An.",
+  "startDate": "2026-08-14",
+  "endDate": "2026-08-16",
+  "maxMembers": 5,
+  "inviteCode": "NHOM88",
+  "ownerEmail": "ngandtk244111@st.uel.edu.vn",
+  "active": true,
+  "createdAt": "2026-07-10T09:00:00.000Z",
+  "members": [
+    {
+      "id": "m-ngan",
+      "name": "Đặng Thị Kim Ngân (Trưởng nhóm)",
+      "email": "ngandtk244111@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "Rảnh cả tháng 8, ưu tiên giữa tháng",
+      "preferences": [
+        "Chụp ảnh phố cổ",
+        "Cà phê view sông",
+        "Ẩm thực địa phương"
+      ],
+      "dislikes": "Đi bộ quá nhiều dưới nắng",
+      "status": "paid"
+    },
+    {
+      "id": "m-hoanganh",
+      "name": "Lê Hoàng Anh",
+      "email": "hoanganh@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+      "budget": 4500000,
+      "availability": "Cuối tuần 14–16/08",
+      "preferences": [
+        "Lặn ngắm san hô",
+        "Hải sản tươi"
+      ],
+      "dislikes": "Khách sạn ồn ào",
+      "status": "paid"
+    },
+    {
+      "id": "m-lybang",
+      "name": "Phùng Sương Lý Băng",
+      "email": "bangpslk24411@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=150&q=80",
+      "budget": 6000000,
+      "availability": "Từ 10/08 trở đi đều rảnh",
+      "preferences": [
+        "Hồ bơi vô cực",
+        "Chụp ảnh sống ảo",
+        "Làng nghề"
+      ],
+      "dislikes": "Dậy sớm trước 7h",
+      "status": "unpaid"
+    },
+    {
+      "id": "m-thinh",
+      "name": "Thịnh Quang",
+      "email": "thinhpqk24411@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&q=80",
+      "budget": 4000000,
+      "availability": "Chỉ đi được cuối tuần",
+      "preferences": [
+        "Chèo thuyền thúng",
+        "Đồ nướng đêm"
+      ],
+      "dislikes": "Tour ép mua sắm",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-ngan",
+        "m-lybang",
+        "m-hoanganh"
+      ],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-thinh"
+      ],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-ngan",
+        "m-hoanganh",
+        "m-lybang",
+        "m-thinh"
+      ],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-hoanganh"
+      ],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-hoanganh",
+        "m-thinh"
+      ],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [
+        "m-hoanganh",
+        "m-lybang",
+        "m-thinh"
+      ],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ]
+},
+{
+  "_id": "VC-DEMO02",
+  "name": "Huế cuối tuần — đang rủ rê",
+  "description": "Phòng vừa mở, mọi người vào điền gu du lịch rồi cùng bầu chọn nhé!",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "HUE999",
+  "ownerEmail": "hoanganh@gmail.com",
+  "active": true,
+  "createdAt": "2026-07-12T15:30:00.000Z",
+  "members": [
+    {
+      "id": "m-ha2",
+      "name": "Lê Hoàng Anh (Trưởng nhóm)",
+      "email": "hoanganh@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+      "budget": 3000000,
+      "availability": "Cuối tuần nào cũng được",
+      "preferences": [
+        "Ẩm thực cung đình",
+        "Đạp xe làng cổ"
+      ],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    },
+    {
+      "id": "m-ngan2",
+      "name": "Đặng Thị Kim Ngân",
+      "email": "ngandtk244111@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Silk Path Grand Huế Hotel",
+      "nameEn": "Silk Path Grand Hue Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1300000,
+      "rating": 4.7,
+      "locationVi": "Trung tâm TP Huế",
+      "locationEn": "Hue City Center"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Homestay Vườn An Hiên bên sông Hương",
+      "nameEn": "An Hien Garden Homestay by Perfume River",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 650000,
+      "rating": 4.5,
+      "locationVi": "Kim Long, Huế",
+      "locationEn": "Kim Long, Hue"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Cơm Hến Đập Đá & Chè Hẻm Cung Đình",
+      "nameEn": "Dap Da Mussel Rice & Royal Sweet Soup",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 150000,
+      "rating": 4.6,
+      "locationVi": "Đập Đá, Huế",
+      "locationEn": "Dap Da, Hue"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Food Tour Xích Lô Huế Về Đêm",
+      "nameEn": "Hue Cyclo Night Food Tour",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.8,
+      "locationVi": "Đại Nội, Huế",
+      "locationEn": "Imperial City, Hue"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Tour Đạp Xe Làng Cổ Thủy Biều",
+      "nameEn": "Thuy Bieu Ancient Village Cycling Tour",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.7,
+      "locationVi": "Thủy Biều, Huế",
+      "locationEn": "Thuy Bieu, Hue"
+    }
+  ]
+},
+{
+  "_id": "VC-4SEHTW",
+  "name": "Hội An",
+  "description": "hello mng",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 2,
+  "inviteCode": "YSD4AC",
+  "ownerEmail": "google.886@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-N85W",
+      "name": "Google User #886 (Trưởng nhóm)",
+      "email": "google.886@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T09:39:40.463Z"
+},
+{
+  "_id": "VC-KC7M3H",
+  "name": "fdsf",
+  "description": "ẻv",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "H7TRBF",
+  "ownerEmail": "facebook.541@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-U85Q",
+      "name": "Facebook User #541 (Trưởng nhóm)",
+      "email": "facebook.541@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T09:47:09.620Z"
+},
+{
+  "_id": "VC-MRD37Q",
+  "name": "Hội An",
+  "description": "dd",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "C7AV9U",
+  "ownerEmail": "google.886@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-A86K",
+      "name": "Google User #886 (Trưởng nhóm)",
+      "email": "google.886@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T10:09:09.866Z"
+},
+{
+  "_id": "VC-2E2ZXA",
+  "name": "dfhtf",
+  "description": "dbgfttg",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "YHTZRA",
+  "ownerEmail": "gre",
+  "members": [
+    {
+      "id": "m-HNF8",
+      "name": "gẻwg (Trưởng nhóm)",
+      "email": "gre",
+      "avatar": "https://images.unsplash.com/photo-1500000725750?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T11:31:58.529Z"
+},
+{
+  "_id": "VC-GFVCWJ",
+  "name": "Hội An",
+  "description": "",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "Z3H3BK",
+  "ownerEmail": "google.915@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-NXDF",
+      "name": "Google User #915 (Trưởng nhóm)",
+      "email": "google.915@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T12:25:57.391Z"
+},
+{
+  "_id": "VC-FABURG",
+  "name": "Hội An",
+  "description": "",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "E9H6AE",
+  "ownerEmail": "google.154@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-HY49",
+      "name": "Google User #154 (Trưởng nhóm)",
+      "email": "google.154@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T13:32:21.567Z"
+},
+{
+  "_id": "VC-72ZKE8",
+  "name": "z",
+  "description": "",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 4,
+  "inviteCode": "96NM4S",
+  "ownerEmail": "google.956@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-AP79",
+      "name": "Google User #956 (Trưởng nhóm)",
+      "email": "google.956@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-13T15:18:27.295Z"
+},
+{
+  "_id": "VC-QRY7SB",
+  "name": "Hội An 3 ngày 2 đêm",
+  "description": "Best of all life",
+  "startDate": "",
+  "endDate": "",
+  "maxMembers": 5,
+  "inviteCode": "ESGRU5",
+  "ownerEmail": "thinhpqk24411@st.uel.edu.vn",
+  "members": [
+    {
+      "id": "m-MJ6N",
+      "name": "thinhquang (Trưởng nhóm)",
+      "email": "thinhpqk24411@st.uel.edu.vn",
+      "avatar": "https://images.unsplash.com/photo-1500000039727?auto=format&fit=crop&w=150&q=80",
+      "budget": 5000000,
+      "availability": "",
+      "preferences": [],
+      "dislikes": "Chưa cập nhật",
+      "status": "unpaid"
+    }
+  ],
+  "votingItems": [
+    {
+      "id": "h1",
+      "nameVi": "Resort Boutique Di Sản Sông Thu Bồn",
+      "nameEn": "Thu Bon River Heritage Boutique Resort",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1800000,
+      "rating": 4.9,
+      "locationVi": "Ven sông Thu Bồn, Hội An",
+      "locationEn": "Riverside, Hoi An"
+    },
+    {
+      "id": "h2",
+      "nameVi": "Khách sạn Heritage Gỗ Mộc Phố Cổ",
+      "nameEn": "Historic Timber Town Hotel",
+      "type": "hotel",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 1100000,
+      "rating": 4.6,
+      "locationVi": "Trung tâm Phố cổ, Hội An",
+      "locationEn": "Ancient Town Center, Hoi An"
+    },
+    {
+      "id": "r1",
+      "nameVi": "Nhà Hàng Vườn Vy: Cao Lầu & Hoành Thánh Di Sản",
+      "nameEn": "Vy Garden: Heritage Cao Lau & Wontons",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.8,
+      "locationVi": "Đường Bạch Đằng, Hội An",
+      "locationEn": "Bach Dang St, Hoi An"
+    },
+    {
+      "id": "r2",
+      "nameVi": "Bếp Hải Sản Đầm Sen Hội An",
+      "nameEn": "Dam Sen Fresh Lagoon Seafood",
+      "type": "restaurant",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 450000,
+      "rating": 4.5,
+      "locationVi": "Cẩm An, Hội An",
+      "locationEn": "Cam An, Hoi An"
+    },
+    {
+      "id": "a1",
+      "nameVi": "Tour Lặn Ngắm San Hô Đảo Cù Lao Chàm bằng Cano",
+      "nameEn": "Cham Island Snorkeling & Speedboat Adventure",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 750000,
+      "rating": 4.7,
+      "locationVi": "Bến tàu Cửa Đại",
+      "locationEn": "Cua Dai Pier"
+    },
+    {
+      "id": "a2",
+      "nameVi": "Thúng Xoay Rừng Dừa Bảy Mẫu & Thả Hoa Đăng Sông Hoài",
+      "nameEn": "Coconut Forest Spinning Basket Boat & Lantern Release",
+      "type": "activity",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=400&q=80",
+      "votes": [],
+      "price": 250000,
+      "rating": 4.9,
+      "locationVi": "Rừng dừa Bảy Mẫu",
+      "locationEn": "Bay Mau Coconut Forest"
+    }
+  ],
+  "active": true,
+  "createdAt": "2026-07-14T02:47:06.163Z"
+}]

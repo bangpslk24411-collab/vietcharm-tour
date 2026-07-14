@@ -1,0 +1,40 @@
+[{
+  "_id": "VC-TX-1783989305691",
+  "bookingId": "VC-BK-1783989305239",
+  "code": "TX-OVL8AG",
+  "method": "visa",
+  "status": "success",
+  "amount": 135000,
+  "userEmail": "phungbang272@gmail.com",
+  "date": "2026-07-14T00:35:05.691Z"
+},
+{
+  "_id": "VC-TX-1784013455706",
+  "bookingId": "VC-BK-1784013455108",
+  "code": "TX-60TSR0",
+  "method": "visa",
+  "status": "success",
+  "amount": 1808000,
+  "userEmail": "google.154@st.uel.edu.vn",
+  "date": "2026-07-14T07:17:35.706Z"
+},
+{
+  "_id": "VC-TX-1784016759176",
+  "bookingId": "VC-BK-1784016758598",
+  "code": "TX-N0FQEF",
+  "method": "vnpay",
+  "status": "success",
+  "amount": 570000,
+  "userEmail": "hoanganh@gmail.com",
+  "date": "2026-07-14T08:12:39.176Z"
+},
+{
+  "_id": "VC-TX-1784023410829",
+  "bookingId": "VC-BK-1784023410280",
+  "code": "TX-OS1GBG",
+  "method": "visa",
+  "status": "success",
+  "amount": 7590000,
+  "userEmail": "thinhpqk24411@st.uel.edu.vn",
+  "date": "2026-07-14T10:03:30.829Z"
+}]

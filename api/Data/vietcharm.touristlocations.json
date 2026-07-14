@@ -1,0 +1,36 @@
+[{
+  "_id": "dad-airport",
+  "lat": 16.044,
+  "lng": 108.2022,
+  "name": "Sân bay Quốc tế Đà Nẵng (DAD)"
+},
+{
+  "_id": "dad-station",
+  "lat": 16.0689,
+  "lng": 108.214,
+  "name": "Ga đường sắt Đà Nẵng"
+},
+{
+  "_id": "hoian-ancient",
+  "lat": 15.8771,
+  "lng": 108.3267,
+  "name": "Phố cổ Hội An (Trần Phú)"
+},
+{
+  "_id": "anbang-beach",
+  "lat": 15.9126,
+  "lng": 108.3435,
+  "name": "Bãi biển An Bàng Hội An"
+},
+{
+  "_id": "myson-sanctuary",
+  "lat": 15.7642,
+  "lng": 108.1235,
+  "name": "Thánh địa Mỹ Sơn (Duy Xuyên)"
+},
+{
+  "_id": "tamthanh-mural",
+  "lat": 15.612,
+  "lng": 108.532,
+  "name": "Làng bích họa Tam Thanh (Tam Kỳ)"
+}]

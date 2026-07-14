@@ -1,36 +1,9 @@
-import { Router } from 'express';
 import { NearbyPlaceModel } from '../models/NearbyPlace';
+import { createCrudRouter } from '../crudRouter';
 
-const router = Router();
+const router = createCrudRouter(NearbyPlaceModel, 'Nearby place', { listSort: { order: 1 } });
 
-router.get('/', async (_req, res) => {
-  try {
-    res.json(await NearbyPlaceModel.find().sort({ order: 1 }));
-  } catch (error) {
-    res.status(500).json({ message: error instanceof Error ? error.message : 'Server Error' });
-  }
-});
-
-router.get('/:id', async (req, res) => {
-  try {
-    const place = await NearbyPlaceModel.findById(req.params.id);
-    if (!place) return res.status(404).json({ message: 'Nearby place not found' });
-    res.json(place);
-  } catch (error) {
-    res.status(500).json({ message: error instanceof Error ? error.message : 'Server Error' });
-  }
-});
-
-router.post('/', async (req, res) => {
-  try {
-    const { id, ...data } = req.body ?? {};
-    if (!id) return res.status(400).json({ message: 'id is required' });
-    res.status(201).json(await NearbyPlaceModel.create({ _id: id, ...data }));
-  } catch (error) {
-    res.status(400).json({ message: error instanceof Error ? error.message : 'Bad Request' });
-  }
-});
-
+/** Appends a review and folds its rating into the place's running average. */
 router.post('/:id/reviews', async (req, res) => {
   try {
     const review = req.body ?? {};
@@ -51,30 +24,6 @@ router.post('/:id/reviews', async (req, res) => {
     res.status(201).json(place);
   } catch (error) {
     res.status(400).json({ message: error instanceof Error ? error.message : 'Bad Request' });
-  }
-});
-
-router.patch('/:id', async (req, res) => {
-  try {
-    const { id: _ignored, ...updates } = req.body ?? {};
-    const place = await NearbyPlaceModel.findByIdAndUpdate(req.params.id, updates, {
-      new: true,
-      runValidators: true,
-    });
-    if (!place) return res.status(404).json({ message: 'Nearby place not found' });
-    res.json(place);
-  } catch (error) {
-    res.status(400).json({ message: error instanceof Error ? error.message : 'Bad Request' });
-  }
-});
-
-router.delete('/:id', async (req, res) => {
-  try {
-    const place = await NearbyPlaceModel.findByIdAndDelete(req.params.id);
-    if (!place) return res.status(404).json({ message: 'Nearby place not found' });
-    res.status(204).send();
-  } catch (error) {
-    res.status(500).json({ message: error instanceof Error ? error.message : 'Server Error' });
   }
 });
 

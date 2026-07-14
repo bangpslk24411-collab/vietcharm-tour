@@ -1,0 +1,22 @@
+[{
+  "_id": "VC-PARTNER-3012",
+  "brandName": "Hội An Lantern Homestay",
+  "contactName": "Nguyễn Thị Hoa",
+  "date": "2026-06-21",
+  "description": "Mong muốn hợp tác cung cấp 5 phòng nghỉ view sông Hoài hoài cổ.",
+  "email": "hoalantern@gmail.com",
+  "phone": "0905123456",
+  "status": "approved",
+  "type": "hotel"
+},
+{
+  "_id": "VC-PARTNER-4509",
+  "brandName": "Taxi Sông Thu Bồn",
+  "contactName": "Trần Văn Tiến",
+  "date": "2026-06-22",
+  "description": "Hãng xe 4 chỗ và 7 chỗ phục vụ đưa đón sân bay Đà Nẵng về Hội An giá ưu đãi.",
+  "email": "songthutaxi@gmail.com",
+  "phone": "0989333444",
+  "status": "pending",
+  "type": "taxi"
+}]

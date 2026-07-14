@@ -1,0 +1,479 @@
+[{
+  "_id": "VC-BK-58902",
+  "date": "2026-06-22",
+  "discountApplied": 375000,
+  "finalTotal": 2125000,
+  "items": [
+    {
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1250000,
+      "quantity": 2,
+      "image": ""
+    }
+  ],
+  "status": "confirmed",
+  "total": 2500000,
+  "userEmail": "hoanganh@gmail.com",
+  "userName": "Lê Hoàng Anh"
+},
+{
+  "_id": "VC-BK-1783883170100",
+  "userEmail": "hoanganh@gmail.com",
+  "userName": "Lê Hoàng Anh",
+  "items": [
+    {
+      "cartKey": "allegro-hoian__standard__2026-07-13 -> 2026-07-14__qty-1__rooms-1",
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1250000,
+      "quantity": 2,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-13 -> 2026-07-14 | Phòng: 1 | Đêm: 1",
+      "serviceDate": "2026-07-13",
+      "packageKey": "standard",
+      "basePrice": 1250000
+    }
+  ],
+  "total": 2500000,
+  "discountApplied": 375000,
+  "finalTotal": 2125000,
+  "status": "confirmed",
+  "date": "2026-07-12"
+},
+{
+  "_id": "VC-BK-1783921929906",
+  "userEmail": "thaomtpk24411@st.uel.edu.vn",
+  "userName": "Thảo Mai Thị Phương",
+  "items": [
+    {
+      "id": "taxi-1783921871953",
+      "type": "vehicle",
+      "name": "Xe Ôm Công Nghệ Sirius/Vision (VietCharm Transfer) [Sân bay Quốc tế Đà Nẵng (DAD) ➔ Phố cổ Hội An (Trần Phú)]",
+      "price": 138600,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=400&q=80",
+      "details": "Ngày đưa đón: 2026-07-13 14:00. Quãng đường: 23.1km. SĐT liên hệ: 0364037150. | CCCD thuê xe: ẻuijfkxhieusjdbf",
+      "serviceDate": "2026-07-13"
+    },
+    {
+      "id": "taxi-1783921907740",
+      "type": "vehicle",
+      "name": "Taxi 7 Chỗ Mitsubishi Xpander (VietCharm Transfer) [Sân bay Quốc tế Đà Nẵng (DAD) ➔ Phố cổ Hội An (Trần Phú)]",
+      "price": 369600,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=400&q=80",
+      "details": "Ngày đưa đón: 2026-07-13 14:00. Quãng đường: 23.1km. SĐT liên hệ: 0364037150. | CCCD thuê xe: ẻuijfkxhieusjdbf",
+      "serviceDate": "2026-07-13"
+    }
+  ],
+  "total": 508200,
+  "discountApplied": 0,
+  "finalTotal": 508200,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783923821997",
+  "userEmail": "thinhpqk24411@st.uel.edu.vn",
+  "userName": "thinhquang",
+  "items": [
+    {
+      "cartKey": "act-town-tour__standard__2026-07-14__adults-1__children-0",
+      "id": "act-town-tour",
+      "type": "activity",
+      "name": "Tour tham quan di sản Phố Cổ Hội An",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566837497217-1f912feab1fe?auto=format&fit=crop&w=600&q=80",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-14 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-14",
+      "packageKey": "standard",
+      "basePrice": 150000
+    }
+  ],
+  "total": 150000,
+  "discountApplied": 0,
+  "finalTotal": 150000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783925004306",
+  "userEmail": "google.886@st.uel.edu.vn",
+  "userName": "Google User #886",
+  "items": [
+    {
+      "id": "taxi-1783921871953",
+      "type": "vehicle",
+      "name": "Xe Ôm Công Nghệ Sirius/Vision (VietCharm Transfer) [Sân bay Quốc tế Đà Nẵng (DAD) ➔ Phố cổ Hội An (Trần Phú)]",
+      "price": 138600,
+      "quantity": 2,
+      "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=400&q=80",
+      "details": "Ngày đưa đón: 2026-07-13 14:00. Quãng đường: 23.1km. SĐT liên hệ: 0364037150. | CCCD thuê xe: ẻuijfkxhieusjdbf",
+      "serviceDate": "2026-07-13"
+    },
+    {
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1250000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "details": "Khách sạn 5 sao mang phong thái hoài cổ tao nhã ngay trung tâm phố cổ."
+    },
+    {
+      "id": "blind-travel-mystery-1783924312059",
+      "type": "activity",
+      "name": "[Hành trình Ẩn Số] Vé máy bay khứ hồi & Resort bí mật",
+      "price": 3800000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=500&q=80",
+      "details": "Thời gian: 3 ngày. Khởi hành ngày 2026-07-10 (Sáng Sớm (05:00 - 08:00)). Chi tiết điểm đến được niêm phong cho đến khi ra sân bay."
+    },
+    {
+      "id": "act-town-tour",
+      "type": "activity",
+      "name": "Tour tham quan di sản Phố Cổ Hội An",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/60/a9/c5/60a9c584e4237b8871abd4cdc9d98ab4.jpg",
+      "details": "Đi bộ khám phá các hội quán lừng danh, giếng cổ Bá Lễ, và thưởng thức nghệ thuật hát Bài Chòi cổ truyền."
+    }
+  ],
+  "total": 5477200,
+  "discountApplied": 821580,
+  "finalTotal": 4655620,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783930268210",
+  "userEmail": "facebook.541@st.uel.edu.vn",
+  "userName": "Facebook User #541",
+  "items": [
+    {
+      "id": "act-town-tour",
+      "type": "activity",
+      "name": "Tour tham quan di sản Phố Cổ Hội An",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/60/a9/c5/60a9c584e4237b8871abd4cdc9d98ab4.jpg",
+      "details": "Đi bộ khám phá các hội quán lừng danh, giếng cổ Bá Lễ, và thưởng thức nghệ thuật hát Bài Chòi cổ truyền."
+    }
+  ],
+  "total": 150000,
+  "discountApplied": 0,
+  "finalTotal": 150000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783930940251",
+  "userEmail": "ngandtk244111@st.uel.edu.vn",
+  "userName": "Đặng Thị Kim Ngân",
+  "items": [
+    {
+      "id": "act-town-tour",
+      "type": "activity",
+      "name": "Tour tham quan di sản Phố Cổ Hội An",
+      "price": 150000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/60/a9/c5/60a9c584e4237b8871abd4cdc9d98ab4.jpg",
+      "details": "Đi bộ khám phá các hội quán lừng danh, giếng cổ Bá Lễ, và thưởng thức nghệ thuật hát Bài Chòi cổ truyền."
+    }
+  ],
+  "total": 150000,
+  "discountApplied": 0,
+  "finalTotal": 150000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783931393822",
+  "userEmail": "thinhpqk24411@st.uel.edu.vn",
+  "userName": "thinhquang",
+  "items": [
+    {
+      "cartKey": "act-rustic-bike__standard__2026-07-14__adults-1__children-0",
+      "id": "act-rustic-bike",
+      "type": "activity",
+      "name": "Tour Đạp Xe Trải Nghiệm Làng Quê Cẩm Kim",
+      "price": 250000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/736x/20/6d/ba/206dbafbe0d7e8c03fcf06473fb2e539.jpg",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-14 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-14",
+      "packageKey": "standard",
+      "basePrice": 250000
+    }
+  ],
+  "total": 250000,
+  "discountApplied": 0,
+  "finalTotal": 250000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783931444879",
+  "userEmail": "ngandtk244111@st.uel.edu.vn",
+  "userName": "Đặng Thị Kim Ngân",
+  "items": [
+    {
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1250000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "details": "Khách sạn 5 sao mang phong thái hoài cổ tao nhã ngay trung tâm phố cổ."
+    }
+  ],
+  "total": 1250000,
+  "discountApplied": 0,
+  "finalTotal": 1250000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783934208124",
+  "userEmail": "google.886@st.uel.edu.vn",
+  "userName": "Google User #886",
+  "items": [
+    {
+      "cartKey": "blind-travel-mystery-1783924312059__standard__2026-07-14__adults-1__children-0",
+      "id": "blind-travel-mystery-1783924312059",
+      "type": "activity",
+      "name": "[Hành trình Ẩn Số] Vé máy bay khứ hồi & Resort bí mật",
+      "price": 3800000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=500&q=80",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-14 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-14",
+      "packageKey": "standard",
+      "basePrice": 3800000
+    }
+  ],
+  "total": 3800000,
+  "discountApplied": 570000,
+  "finalTotal": 3230000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783935865456",
+  "userEmail": "google.886@st.uel.edu.vn",
+  "userName": "Google User #886",
+  "items": [
+    {
+      "id": "group-hotel-h1",
+      "type": "hotel",
+      "name": "[Hội An] Resort Boutique Di Sản Sông Thu Bồn",
+      "price": 3600000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "details": "Bình chọn nhiều nhất bởi cả nhóm VC-4SEHTW"
+    }
+  ],
+  "total": 3600000,
+  "discountApplied": 0,
+  "finalTotal": 3600000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783937407250",
+  "userEmail": "google.886@st.uel.edu.vn",
+  "userName": "Google User #886",
+  "items": [
+    {
+      "id": "group-hotel-h1",
+      "type": "hotel",
+      "name": "[Hội An] Resort Boutique Di Sản Sông Thu Bồn",
+      "price": 3600000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "details": "Bình chọn nhiều nhất bởi cả nhóm VC-4SEHTW"
+    },
+    {
+      "id": "group-hotel-h1",
+      "type": "hotel",
+      "name": "[Hội An] Resort Boutique Di Sản Sông Thu Bồn",
+      "price": 3600000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "details": "Bình chọn nhiều nhất bởi cả nhóm VC-MRD37Q"
+    }
+  ],
+  "total": 7200000,
+  "discountApplied": 0,
+  "finalTotal": 7200000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783955857350",
+  "userEmail": "ngandtk244111@st.uel.edu.vn",
+  "userName": "Đặng Thị Kim Ngân",
+  "items": [
+    {
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1125000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "details": "Khách sạn 5 sao mang phong thái hoài cổ tao nhã ngay trung tâm phố cổ."
+    }
+  ],
+  "total": 1125000,
+  "discountApplied": 168750,
+  "finalTotal": 956250,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783956312991",
+  "userEmail": "ngandtk244111@st.uel.edu.vn",
+  "userName": "Đặng Thị Kim Ngân",
+  "items": [
+    {
+      "id": "allegro-hoian",
+      "type": "hotel",
+      "name": "Allegro Hoi An Luxury Hotel & Spa",
+      "price": 1125000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+      "details": "Khách sạn 5 sao mang phong thái hoài cổ tao nhã ngay trung tâm phố cổ."
+    }
+  ],
+  "total": 1125000,
+  "discountApplied": 0,
+  "finalTotal": 1125000,
+  "status": "confirmed",
+  "date": "2026-07-13"
+},
+{
+  "_id": "VC-BK-1783989305239",
+  "userEmail": "phungbang272@gmail.com",
+  "userName": "bb",
+  "items": [
+    {
+      "id": "act-town-tour",
+      "type": "activity",
+      "name": "Tour tham quan di sản Phố Cổ Hội An",
+      "price": 135000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/60/a9/c5/60a9c584e4237b8871abd4cdc9d98ab4.jpg",
+      "details": "Đi bộ khám phá các hội quán lừng danh, giếng cổ Bá Lễ, và thưởng thức nghệ thuật hát Bài Chòi cổ truyền."
+    }
+  ],
+  "total": 135000,
+  "discountApplied": 0,
+  "finalTotal": 135000,
+  "status": "confirmed",
+  "date": "2026-07-14"
+},
+{
+  "_id": "VC-BK-1784013455108",
+  "userEmail": "google.154@st.uel.edu.vn",
+  "userName": "Thảo",
+  "items": [
+    {
+      "cartKey": "lasiesta-hoian__standard__2026-07-15 -> 2026-07-16__qty-1__rooms-1",
+      "id": "lasiesta-hoian",
+      "type": "hotel",
+      "name": "La Siesta Hoi An Resort & Spa",
+      "price": 1908000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-15 -> 2026-07-16 | Phòng: 1 | Đêm: 1",
+      "serviceDate": "2026-07-15",
+      "packageKey": "standard",
+      "basePrice": 1908000
+    }
+  ],
+  "total": 1908000,
+  "discountApplied": 100000,
+  "finalTotal": 1808000,
+  "status": "confirmed",
+  "date": "2026-07-14"
+},
+{
+  "_id": "VC-BK-1784016758598",
+  "userEmail": "hoanganh@gmail.com",
+  "userName": "Lê Hoàng Anh",
+  "items": [
+    {
+      "cartKey": "act-thung-chai-camthanh__standard__2026-07-15__adults-1__children-0",
+      "id": "act-thung-chai-camthanh",
+      "type": "activity",
+      "name": "Tour thuyền thúng rừng dừa Bảy Mẫu Cẩm Thanh",
+      "price": 120000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/a8/ae/a0/a8aea01a15672be36b76d96e26bf93db.jpg",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-15 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-15",
+      "packageKey": "standard",
+      "basePrice": 120000
+    },
+    {
+      "cartKey": "act-cooking-class__standard__2026-07-15__adults-1__children-0",
+      "id": "act-cooking-class",
+      "type": "activity",
+      "name": "Lớp Học Nấu Ăn Đặc Sản Hội An",
+      "price": 450000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/e4/2c/fc/e42cfc6209cc6db1547012fe0e07cc27.jpg",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-15 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-15",
+      "packageKey": "standard",
+      "basePrice": 450000
+    }
+  ],
+  "total": 570000,
+  "discountApplied": 0,
+  "finalTotal": 570000,
+  "status": "confirmed",
+  "date": "2026-07-14"
+},
+{
+  "_id": "VC-BK-1784023410280",
+  "userEmail": "thinhpqk24411@st.uel.edu.vn",
+  "userName": "thinhquang",
+  "items": [
+    {
+      "cartKey": "combo-heritage-golf__standard__2026-07-15__adults-1__children-0",
+      "id": "combo-heritage-golf",
+      "type": "activity",
+      "name": "[Tour Combo] Combo \"Di Sản & Swing Golf Thượng Lưu\"",
+      "price": 5900000,
+      "quantity": 1,
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=600&q=80",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-15 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-15",
+      "packageKey": "standard",
+      "basePrice": 5900000
+    },
+    {
+      "cartKey": "combo-hue-heritage__standard__2026-07-15__adults-1__children-0",
+      "id": "combo-hue-heritage",
+      "type": "activity",
+      "name": "[Tour Combo] Combo \"Sắc Màu Cố Đô Huế\" Thơ Mộng",
+      "price": 1690000,
+      "quantity": 1,
+      "image": "https://i.pinimg.com/1200x/9e/35/6e/9e356e934cfa98cd1b7988707a9aa4be.jpg",
+      "details": "Gói: Gói Tiêu Chuẩn (Cơ bản) | Ngày: 2026-07-15 | Vé: 1 Người lớn, 0 Trẻ em",
+      "serviceDate": "2026-07-15",
+      "packageKey": "standard",
+      "basePrice": 1690000
+    }
+  ],
+  "total": 7590000,
+  "discountApplied": 0,
+  "finalTotal": 7590000,
+  "status": "confirmed",
+  "date": "2026-07-14"
+}]

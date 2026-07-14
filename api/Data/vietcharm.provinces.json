@@ -1,0 +1,96 @@
+[{
+  "_id": "quang-nam",
+  "active": true,
+  "description": "Thương cảng sầm uất thế kỷ XVII giữ gìn nguyên vẹn nét cổ kính rêu phong.",
+  "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80",
+  "name": "Quảng Nam - Hội An",
+  "tagline": "Phố cổ đèn lồng, di sản lung linh"
+},
+{
+  "_id": "da-nang",
+  "active": false,
+  "description": "Thành phố đáng sống bậc nhất Việt Nam với những cây cầu huyền thoại bắc qua sông Hàn.",
+  "image": "https://images.unsplash.com/photo-1603852452378-a4e8d84324a2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JUM0JTkxJUMzJUEwJTIwbiVFMSVCQSVCNW5nfGVufDB8fDB8fHww",
+  "name": "Đà Nẵng",
+  "tagline": "Biển bạc Mỹ Khê, Ngũ Hành Sơn hùng vĩ"
+},
+{
+  "_id": "thua-thien-hue",
+  "active": false,
+  "description": "Cố đô ngàn năm văn hiến nằm êm đềm bên dòng sông Hương thơ mộng, cổ kính uy nghiêm.",
+  "image": "https://images.unsplash.com/photo-1705823637026-92c0ef6d6222?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aHUlRTElQkElQkZ8ZW58MHx8MHx8fDA%3D",
+  "name": "Thừa Thiên Huế",
+  "tagline": "Cung điện uy nghiêm, nhã nhạc cung đình"
+},
+{
+  "_id": "binh-dinh",
+  "active": false,
+  "description": "Vùng đất võ trời văn với những tháp Chăm cổ kính trầm mặc và bãi biển Kỳ Co ngọc bích.",
+  "image": "https://media.istockphoto.com/id/2224028476/vi/anh/tuabin-gi%C3%B3-tr%C3%AAn-n%C3%BAi-k%E1%BB%B3-quy-nh%C6%A1n.jpg?s=1024x1024&w=is&k=20&c=fQGiOgQid3fCzgJbZR27ksvPM0OxKbgtYoRTc760WqU=",
+  "name": "Bình Định",
+  "tagline": "Biển Kỳ Co, tháp Chăm ngàn năm"
+},
+{
+  "_id": "khanh-hoa",
+  "active": false,
+  "description": "Vịnh biển đẹp bậc nhất thế giới với dải cát trắng mịn màng và dừa xanh thơ mộng.",
+  "image": "https://i.pinimg.com/1200x/a8/8a/75/a88a75504a1e0083bf39f9bac8cd7e3a.jpg",
+  "name": "Khánh Hòa - Nha Trang",
+  "tagline": "Vịnh Nha Trang, thiên đường rực rỡ"
+},
+{
+  "_id": "quang-binh",
+  "active": false,
+  "description": "Vương quốc hang động thế giới chứa đựng kiệt tác thiên nhiên Sơn Đoòng và Phong Nha kì vĩ.",
+  "image": "https://images.unsplash.com/photo-1618083707368-b3823daa2726?auto=format&fit=crop&w=800&q=80",
+  "name": "Quảng Bình",
+  "tagline": "Kỳ quan Sơn Đoòng, Phong Nha đệ nhất động"
+},
+{
+  "_id": "phu-yen",
+  "active": false,
+  "description": "Vùng đất hoa vàng trên cỏ xanh yên bình với Gành Đá Đĩa kỳ vĩ kiến tạo triệu năm.",
+  "image": "https://i.pinimg.com/1200x/45/41/be/4541be3be628a0fd780a826ca92a679d.jpg",
+  "name": "Phú Yên",
+  "tagline": "Xứ sở hoa vàng cỏ xanh, Gành Đá Đĩa độc bản"
+},
+{
+  "_id": "ninh-thuan",
+  "active": false,
+  "description": "Vùng đất của nắng, gió, vịnh biển Vĩnh Hy tuyệt sắc bên những đồi cát mênh mông.",
+  "image": "https://i.pinimg.com/1200x/76/1b/5e/761b5eac726568372c72dae24fff0a25.jpg",
+  "name": "Ninh Thuận",
+  "tagline": "Vịnh Vĩnh Hy trong xanh, tháp cổ Pô Klong Garai"
+},
+{
+  "_id": "quang-ngai",
+  "active": false,
+  "description": "Quê hương của đảo tỏi Lý Sơn hoang sơ mộc mạc và những cánh đồng muối trắng ngập nắng.",
+  "image": "https://i.pinimg.com/1200x/52/8b/eb/528beb2c77d0b01953f6709bf5c93c4e.jpg",
+  "name": "Quảng Ngãi",
+  "tagline": "Thiên đường biển đảo Lý Sơn, núi Ấn sông Trà"
+},
+{
+  "_id": "binh-thuan",
+  "active": false,
+  "description": "Xứ sở cát đỏ Mũi Né lộng gió, dừa xanh nghiêng bóng bên dải sóng đại dương rực nắng.",
+  "image": "https://i.pinimg.com/1200x/46/c5/c2/46c5c22f6b1778c332c65cdf177d25f3.jpg",
+  "name": "Bình Thuận",
+  "tagline": "Thủ phủ resort Mũi Né, đồi cát bay ngợp gió"
+},
+{
+  "_id": "quang-tri",
+  "active": false,
+  "description": "Miền đất lịch sử anh hùng tự hào của vĩ tuyến 17 bên sông Bến Hải, cầu Hiền Lương.",
+  "image": "https://i.pinimg.com/1200x/c9/94/32/c99432e587e9638ae586855d26c348ec.jpg",
+  "name": "Quảng Trị",
+  "tagline": "Vĩ tuyến 17 hào hùng, thành cổ uy nghiêm"
+},
+{
+  "_id": "nghe-an",
+  "active": false,
+  "description": "Mảnh đất địa linh nhân kiệt với bãi biển Cửa Lò thơ mộng và những thảm hoa hướng dương rực rỡ.",
+  "image": "https://i.pinimg.com/736x/a7/90/07/a790071c60417294e378170071587a8c.jpg",
+  "name": "Nghệ An",
+  "tagline": "Quê hương Sen nở thơm ngát, bãi biển Cửa Lò sóng biếc"
+}]
