@@ -111,39 +111,39 @@
         <div class="mx-auto flex min-h-9 max-w-7xl flex-nowrap items-center justify-center gap-x-3 px-4 py-1">
           <nav class="flex flex-nowrap items-center justify-center gap-x-3">
             <a class="nav-item" routerLink="/discover" routerLinkActive="active"><i class="bi bi-compass nav-ic"></i><span>{{ i18n.isVi() ? 'Khám phá' : 'Explore' }}</span></a>
-            <button type="button" class="nav-item" (click)="openServices('hotels')"><i class="bi bi-building nav-ic"></i><span>{{ i18n.isVi() ? 'Khách sạn' : 'Hotels' }}</span></button>
+            <button type="button" class="nav-item" [class.active]="isServicesTabActive('hotels')" (click)="openServices('hotels')"><i class="bi bi-building nav-ic"></i><span>{{ i18n.isVi() ? 'Khách sạn' : 'Hotels' }}</span></button>
 
             <!-- Transport dropdown -->
             <div class="relative">
-              <button type="button" class="nav-item" (click)="toggleTransport()" [attr.aria-expanded]="transportOpen()">
+              <button type="button" class="nav-item" [class.active]="isTransportActive()" (click)="toggleTransport()" [attr.aria-expanded]="transportOpen()">
                 <i class="bi bi-car-front nav-ic"></i><span>{{ i18n.isVi() ? 'Phương tiện di chuyển' : 'Transport' }}</span>
                 <i class="bi bi-chevron-down h-4 w-4 transition-transform" [class.rotate-180]="transportOpen()"></i>
               </button>
               @if (transportOpen()) {
                 <div class="absolute left-0 top-full z-50 w-52 pt-2">
                   <div class="overflow-hidden rounded-xl border border-natural-border bg-natural-bg py-2 shadow-xl">
-                    <button type="button" class="dropdown-item" (click)="openServices('vehicles')"><i class="bi bi-bicycle dd-ic"></i><span>{{ i18n.isVi() ? 'Thuê xe' : 'Rent a vehicle' }}</span></button>
-                    <a class="dropdown-item" routerLink="/taxi" (click)="closeMenus()"><i class="bi bi-car-front dd-ic"></i><span>{{ i18n.isVi() ? 'Đặt taxi' : 'Book a taxi' }}</span></a>
+                    <button type="button" class="dropdown-item" [class.active]="isServicesTabActive('vehicles')" (click)="openServices('vehicles')"><i class="bi bi-bicycle dd-ic"></i><span>{{ i18n.isVi() ? 'Thuê xe' : 'Rent a vehicle' }}</span></button>
+                    <a class="dropdown-item" routerLink="/taxi" routerLinkActive="active" (click)="closeMenus()"><i class="bi bi-car-front dd-ic"></i><span>{{ i18n.isVi() ? 'Đặt taxi' : 'Book a taxi' }}</span></a>
                   </div>
                 </div>
               }
             </div>
 
-            <button type="button" class="nav-item" (click)="openServices('activities')"><i class="bi bi-signpost-split nav-ic"></i><span>{{ i18n.isVi() ? 'Hoạt động & Vui chơi' : 'Activities' }}</span></button>
+            <button type="button" class="nav-item" [class.active]="isServicesTabActive('activities')" (click)="openServices('activities')"><i class="bi bi-signpost-split nav-ic"></i><span>{{ i18n.isVi() ? 'Hoạt động & Vui chơi' : 'Activities' }}</span></button>
             <a class="nav-item" routerLink="/trip-room" routerLinkActive="active"><i class="bi bi-people nav-ic"></i><span>Trip Room</span></a>
             <a class="nav-item" routerLink="/blind-travel" routerLinkActive="active"><i class="bi bi-stars nav-ic"></i><span>{{ i18n.isVi() ? 'Hành trình ẩn số' : 'Blind Travel' }}</span></a>
 
             <!-- More dropdown -->
             <div class="relative">
-              <button type="button" class="nav-item" (click)="toggleMore()" [attr.aria-expanded]="moreOpen()">
+              <button type="button" class="nav-item" [class.active]="isMoreActive()" (click)="toggleMore()" [attr.aria-expanded]="moreOpen()">
                 <span>{{ i18n.isVi() ? 'Xem thêm' : 'More' }}</span>
                 <i class="bi bi-chevron-down h-4 w-4 transition-transform" [class.rotate-180]="moreOpen()"></i>
               </button>
               @if (moreOpen()) {
                 <div class="absolute right-0 top-full z-50 w-56 pt-2">
                   <div class="overflow-hidden rounded-xl border border-natural-border bg-natural-bg py-2 shadow-xl">
-                    <a class="dropdown-item" routerLink="/handbook" (click)="closeMenus()"><i class="bi bi-book dd-ic"></i><span>{{ i18n.isVi() ? 'Cẩm nang du lịch' : 'Travel handbook' }}</span></a>
-                    <a class="dropdown-item" routerLink="/nearby-places" (click)="closeMenus()"><i class="bi bi-geo-alt dd-ic"></i><span>{{ i18n.isVi() ? 'Địa điểm lân cận' : 'Nearby places' }}</span></a>
+                    <a class="dropdown-item" routerLink="/handbook" routerLinkActive="active" (click)="closeMenus()"><i class="bi bi-book dd-ic"></i><span>{{ i18n.isVi() ? 'Cẩm nang du lịch' : 'Travel handbook' }}</span></a>
+                    <a class="dropdown-item" routerLink="/nearby-places" routerLinkActive="active" (click)="closeMenus()"><i class="bi bi-geo-alt dd-ic"></i><span>{{ i18n.isVi() ? 'Địa điểm lân cận' : 'Nearby places' }}</span></a>
                   </div>
                 </div>
               }
