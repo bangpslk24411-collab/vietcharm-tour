@@ -1,0 +1,1025 @@
+[{
+  "_id": "veh-sirius",
+  "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=400&q=80",
+  "name": "Yamaha Sirius 110cc (Tiết kiệm xăng)",
+  "pricePerDay": 120000,
+  "rating": 4.7,
+  "specs": "Xe số dẻo dai, tiết kiệm xăng vượt trội, phù hợp vượt đồi lướt thung lũng.",
+  "type": "motorbike",
+  "discountPercent": 15,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vision",
+  "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=400&q=80",
+  "name": "Honda Vision 110cc Smartkey",
+  "pricePerDay": 150000,
+  "rating": 4.8,
+  "specs": "Khóa thông minh, cốp xe rộng rãi, lái nhẹ nhàng êm ái trên các nẻo đường đô thị.",
+  "type": "motorbike",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-lead",
+  "image": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=400&q=80",
+  "name": "Honda Lead 125cc Cốp cực rộng",
+  "pricePerDay": 170000,
+  "rating": 4.8,
+  "specs": "Cốp xe siêu rộng 37 lít chứa được 2 nón bảo hiểm và nhiều hành lý lặt vặt.",
+  "type": "motorbike",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-exciter",
+  "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=400&q=80",
+  "name": "Yamaha Exciter 150cc Côn Tay",
+  "pricePerDay": 200000,
+  "rating": 4.9,
+  "specs": "Động cơ côn tay thể thao mạnh mẽ, bốc lửa, phù hợp chinh phục đèo Hải Vân kỳ vĩ.",
+  "type": "motorbike",
+  "discountPercent": 20,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-sh",
+  "image": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=400&q=80",
+  "name": "Honda SH Premium 150cc",
+  "pricePerDay": 250000,
+  "rating": 4.9,
+  "specs": "Đẳng cấp lịch lãm phong trần, động cơ cực mạnh phù hợp hành trình đường dài liên tỉnh.",
+  "type": "motorbike",
+  "discountPercent": 0,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-airblade",
+  "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=400&q=80",
+  "name": "Honda Air Blade 125cc Thể Thao",
+  "pricePerDay": 180000,
+  "rating": 4.8,
+  "specs": "Động cơ eSP+ tiên tiến, vận hành mạnh mẽ khỏe khoắn, thiết kế nam tính hiện đại.",
+  "type": "motorbike",
+  "discountPercent": 20,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vespa",
+  "image": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=400&q=80",
+  "name": "Vespa Primavera 125cc Thời Trang",
+  "pricePerDay": 300000,
+  "rating": 4.9,
+  "specs": "Phong cách Ý cổ điển quyến rũ thanh lịch, màu sơn thời trang tôn dáng chụp hình.",
+  "type": "motorbike",
+  "discountPercent": 25,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-raider",
+  "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=400&q=80",
+  "name": "Suzuki Raider 150cc Underbone",
+  "pricePerDay": 220000,
+  "rating": 4.7,
+  "specs": "Kiểu dáng hyper-underbone siêu ngầu, tốc độ bứt phá cực nhanh cho bạn trẻ mê phượt.",
+  "type": "motorbike",
+  "discountPercent": 25,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-giant-bike",
+  "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=400&q=80",
+  "name": "Xe đạp địa hình Giant ATX",
+  "pricePerDay": 80000,
+  "rating": 4.8,
+  "specs": "Khung nhôm siêu nhẹ Aluxx, phuộc nhún êm ái thích hợp đạp thong dong khám phá phố cổ.",
+  "type": "motorbike",
+  "discountPercent": 15,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-i10",
+  "image": "https://i.pinimg.com/1200x/0d/2a/e8/0d2ae8f322dc99e59e73e23bfb8ea25c.jpg",
+  "name": "Hyundai i10 Hatchback (Tự Lái)",
+  "pricePerDay": 750000,
+  "rating": 4.7,
+  "specs": "Xe số tự động nhỏ gọn, cực kỳ linh hoạt luồn lách qua các ngõ hẻm đô thị.",
+  "type": "car",
+  "discountPercent": 20,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-accent",
+  "image": "https://i.pinimg.com/736x/89/57/1c/89571c88c46c2f11536b29a6471272b4.jpg",
+  "name": "Hyundai Accent Sedan (Tự Lái)",
+  "pricePerDay": 900000,
+  "rating": 4.8,
+  "specs": "Sedan 5 chỗ thời trang hiện đại, có trang bị cảm biến lùi, bluetooth kết nối rảnh tay.",
+  "type": "car",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vios",
+  "image": "https://i.pinimg.com/736x/80/92/74/80927439acbdd3864cf45752dcde56d5.jpg",
+  "name": "Toyota Vios 5 Chỗ (Có tài xế riêng)",
+  "pricePerDay": 1000000,
+  "rating": 4.8,
+  "specs": "Xe Sedan mát lạnh sạch sẽ, tài xế cư xử lịch sự am tường lối ngõ lịch trình linh hoạt.",
+  "type": "car",
+  "discountPercent": 15,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-xpander-self",
+  "image": "https://i.pinimg.com/736x/0d/16/f2/0d16f2a497de0f5ccf682b2d1ae46af5.jpg",
+  "name": "Mitsubishi Xpander 7 Chỗ (Tự Lái)",
+  "pricePerDay": 1100000,
+  "rating": 4.9,
+  "specs": "Mẫu xe 7 chỗ tự lái quốc dân rộng rãi, máy lạnh buốt sâu, ghế da êm ái cho cả gia đình.",
+  "type": "car",
+  "discountPercent": 0,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-xpander",
+  "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=400&q=80",
+  "name": "Mitsubishi Xpander 7 Chỗ (Có tài xế)",
+  "pricePerDay": 1300000,
+  "rating": 4.9,
+  "specs": "Nội thất cực rộng cho đại gia đình, có gá nóc hành lý cồng kềnh đầy tiện nghi.",
+  "type": "car",
+  "discountPercent": 20,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-fortuner",
+  "image": "https://i.pinimg.com/1200x/95/e6/de/95e6de7fd5e398bd7256522e51d0950d.jpg",
+  "name": "Toyota Fortuner SUV 7 Chỗ (Tự Lái)",
+  "pricePerDay": 1400000,
+  "rating": 4.9,
+  "specs": "SUV 7 chỗ gầm cao, máy dầu bền bỉ tiết kiệm, vượt mọi địa hình đồi núi mượt mà.",
+  "type": "car",
+  "discountPercent": 25,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vf5",
+  "image": "https://i.pinimg.com/736x/6a/74/b9/6a74b9310bae713b090fd2d97131cdf5.jpg",
+  "name": "VinFast VF5 Electric SUV (Tự Lái)",
+  "pricePerDay": 800000,
+  "rating": 4.8,
+  "specs": "Xe điện đô thị thông minh, bảo vệ môi trường, vận hành cực kỳ êm ái và bốc.",
+  "type": "car",
+  "discountPercent": 15,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vf8",
+  "image": "https://i.pinimg.com/236x/76/b6/a3/76b6a34829ed558339043f1192df6b4a.jpg",
+  "name": "VinFast VF8 Luxury Electric SUV (Tự Lái)",
+  "pricePerDay": 1600000,
+  "rating": 5,
+  "specs": "SUV điện hạng sang thông minh đẳng cấp, hệ thống ADAS lái tự động tiện nghi bậc nhất.",
+  "type": "car",
+  "discountPercent": 30,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-camry",
+  "image": "https://i.pinimg.com/1200x/79/0e/19/790e19beea975d666fe039f3dcb0cac1.jpg",
+  "name": "Toyota Camry Hybrid Hạng Sang (Tự Lái)",
+  "pricePerDay": 1800000,
+  "rating": 4.9,
+  "specs": "Sedan hạng sang lịch lãm chuẩn mực, mang đến sự đẳng cấp, tĩnh lặng tuyệt đối cho quý doanh nhân.",
+  "type": "car",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-transit",
+  "image": "https://i.pinimg.com/736x/45/65/42/456542fe0e1880d3e7b5ce87a1a39e85.jpg",
+  "name": "Ford Transit 16 Chỗ (Có tài xế)",
+  "pricePerDay": 1800000,
+  "rating": 4.8,
+  "specs": "Xe 16 chỗ đời mới mát mẻ rộng rãi, tài xế đón tiễn tận tình đúng giờ suốt hành trình.",
+  "type": "car",
+  "discountPercent": 15,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-solati-limo",
+  "image": "https://i.pinimg.com/1200x/4e/ee/5a/4eee5a4d3d25c134f881341d886dd550.jpg",
+  "name": "Hyundai Solati Limousine 9 Chỗ VIP (Có tài)",
+  "pricePerDay": 2800000,
+  "rating": 5,
+  "specs": "Nội thất khoang thương gia siêu sang, ghế massage bọc da cao cấp, sạc USB, tủ lạnh mini tiện nghi.",
+  "type": "car",
+  "discountPercent": 30,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vespa-lx",
+  "image": "https://i.pinimg.com/736x/21/f9/45/21f9452e4a755e68cf163f5457ae997d.jpg",
+  "name": "Vespa LX 125cc Cổ Điển",
+  "pricePerDay": 200000,
+  "rating": 4.8,
+  "specs": "Dòng xe Vespa Ý thời trang thanh lịch cổ điển, cực kỳ tôn dáng khi chụp ảnh check-in kỷ niệm tại phố cổ Hội An.",
+  "type": "motorbike",
+  "discountPercent": 20,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-xe-om-dien",
+  "image": "https://i.pinimg.com/736x/8d/43/52/8d435247177459930998d0825b941355.jpg",
+  "name": "Xe điện Lihaze mini dễ thương",
+  "pricePerDay": 130000,
+  "rating": 4.7,
+  "specs": "Chạy điện êm ái bảo vệ môi trường, thiết kế mini dễ thương, giỏ xe lớn tiện ích, thích hợp cho các bạn nữ dạo mát nhẹ nhàng.",
+  "type": "motorbike",
+  "discountPercent": 25,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-kia-carnival",
+  "image": "https://i.pinimg.com/1200x/11/15/fe/1115fed97d45fa8a38129486390d734d.jpg",
+  "name": "Kia Carnival Signature 8 Chỗ (Có tài xế)",
+  "pricePerDay": 2200000,
+  "rating": 5,
+  "specs": "Chuyên cơ mặt đất 8 chỗ siêu rộng rãi đời mới nhất, ghế thương gia bọc da cao cấp ngả lưng bọc da êm ái phù hợp đón tiễn sân bay Vip.",
+  "type": "car",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-vinfast-vfe34",
+  "image": "https://i.pinimg.com/736x/68/97/3f/68973fda8587d21f2859ff8fc6a1ebec.jpg",
+  "name": "VinFast VF e34 SUV Điện (Tự Lái)",
+  "pricePerDay": 700000,
+  "rating": 4.8,
+  "specs": "SUV điện thông minh 5 chỗ rộng rãi mát mẻ, vận hành êm ru không tiếng ồn cực kỳ tiết kiệm chi phí nhiên liệu sạc pin.",
+  "type": "car",
+  "discountPercent": 30,
+  "gallery": [
+    "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra kỹ thuật, bảo hiểm bắt buộc và định mức 200 km/ngày.",
+      "descriptionEn": "Fully inspected car, compulsory insurance, and 200 km/day allowance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe tận nơi trong Hội An, thêm tài xế phụ và ghế trẻ em theo yêu cầu.",
+      "descriptionEn": "Hoi An door-to-door delivery, an additional driver, and a child seat on request."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+},
+{
+  "_id": "veh-giant-ebike",
+  "image": "https://i.pinimg.com/736x/68/4b/7b/684b7bddcdc9c51e83f9ab4d755ba4f7.jpg",
+  "name": "Xe đạp điện Giant E-Bike thông minh",
+  "pricePerDay": 120000,
+  "rating": 4.8,
+  "specs": "Xe trợ lực điện Giant nhập khẩu chính hãng, pin bền bỉ lâu bền giúp lướt êm ái xuyên phố cổ mà không lo tốn sức.",
+  "type": "motorbike",
+  "discountPercent": 10,
+  "gallery": [
+    "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1524591652733-73fa1ae7b5ee?auto=format&fit=crop&w=900&q=80"
+  ],
+  "rentalPackages": [
+    {
+      "key": "standard",
+      "priceModifier": 1,
+      "nameVi": "Gói Tự Lái Tiêu Chuẩn",
+      "nameEn": "Standard Self-drive",
+      "descriptionVi": "Xe đã kiểm tra, 2 mũ bảo hiểm, áo mưa, khóa chống trộm và bảo hiểm bắt buộc.",
+      "descriptionEn": "Inspected bike, 2 helmets, raincoats, anti-theft lock, and compulsory insurance."
+    },
+    {
+      "key": "premium",
+      "priceModifier": 1.3,
+      "nameVi": "Gói Giao Nhận Tận Nơi",
+      "nameEn": "Door-to-door Delivery",
+      "descriptionVi": "Giao và nhận xe trong Hội An, kèm giá đỡ điện thoại và hỗ trợ cứu hộ ưu tiên.",
+      "descriptionEn": "Hoi An delivery and collection, phone holder, and priority roadside support."
+    },
+    {
+      "key": "luxury",
+      "priceModifier": 1.6,
+      "nameVi": "Gói An Tâm Toàn Diện",
+      "nameEn": "Complete Protection",
+      "descriptionVi": "Bảo vệ thiệt hại mở rộng, giảm mức cọc, cứu hộ 24/7 và ưu tiên đổi xe khi có sự cố.",
+      "descriptionEn": "Extended damage cover, reduced deposit, 24/7 roadside assistance, and priority replacement vehicle."
+    }
+  ]
+}]
